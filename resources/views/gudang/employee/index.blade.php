@@ -24,7 +24,7 @@
         <div class="container-fluid">
           <div class="box">
             <div class="box-header">
-              <h3 class="box-title">Data karyawan pt. ikpp</h3>
+              <h3 class="box-title">Data karyawan Yoozdstuff Store</h3>
             </div>
             <!-- /.box-header -->
             <div class="box-body">

@@ -24,7 +24,7 @@
         <div class="container-fluid">
           <div class="box">
             <div class="box-header">
-              <h3 class="box-title">Detail data karyawan ikpp</h3>
+              <h3 class="box-title">Detail data {{ $employees->nama_karyawan }}</h3>
             </div>
             <!-- /.box-header -->
             <div class="box-body">

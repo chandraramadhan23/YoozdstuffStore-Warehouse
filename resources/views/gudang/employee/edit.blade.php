@@ -25,7 +25,7 @@
 
         			<div class="box">
             			<div class="box-header">
-			              <h5 class="box-title">Edit data karyawan pt. ikpp</h5>
+			              <h5 class="box-title">Edit data karyawan Yoozdstuff Store</h5>
 			            </div>
 			            <div class="box-body">
 			            	@include('gudang/validation')

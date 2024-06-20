@@ -24,7 +24,7 @@
 	        	<div class="container-fluid">
 	        		<div class="box">	
             			<div class="box-header">
-			              <h5 class="box-title">Tambah data karyawan PT. IKPP</h5>
+			              <h5 class="box-title">Tambah data karyawan Yoozdstuff Store</h5>
 			            </div>
 			            <div class="box-body">
 			            	@include('gudang/validation')

@@ -22,8 +22,10 @@
       @include('templates.header')
 
       <div class="container-fluid">
-        <h3 class="mt-4">Selamat Datang di Sistem Informasi Pergudangan</h3>
-        <br><center><p>Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a></p></center>
+        <h3 class="mt-4">Selamat Datang di Sistem Informasi Gudang Yoozdstuff Store</h3>
+        <br><br><br><br>
+        <center><img class="mt-4" src="image/logo-yoodzstuff.jpg" alt="logo yoozdstuff" width="220"></center>
+        <br><center><p>Muhammad Chandra Ramadhan, reference by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a></p></center>
         
       </div>
     </div>

@@ -2,10 +2,10 @@
   <div class="sidebar-heading">Sistem Pergudangan </div>
   <div class="list-group list-group-flush">
     <a href="{{ url('/home') }}" class="list-group-item list-group-item-action bg-light">Dashboard</a>
-    <a href="{{ route('employee.index') }}" class="list-group-item list-group-item-action bg-light">Data Karyawan</a>
-    <a href="{{ route('supplier.index') }}" class="list-group-item list-group-item-action bg-light">Seksi Pemasok</a>
+    <a href="{{ route('employee.index') }}" class="list-group-item list-group-item-action bg-light">Karyawan</a>
+    <a href="{{ route('supplier.index') }}" class="list-group-item list-group-item-action bg-light">Supplier</a>
     <a href="{{ route('product.index') }}" class="list-group-item list-group-item-action bg-light">Data Barang</a>
-    <a href="{{ route('sell.index') }}" class="list-group-item list-group-item-action bg-light">Barang Diambil</a>
+    <a href="{{ route('sell.index') }}" class="list-group-item list-group-item-action bg-light">Barang Keluar</a>
     <a href="{{ route('purchase.index') }}" class="list-group-item list-group-item-action bg-light">Barang Masuk</a>
     <a href="{{ route('report.index') }}" class="list-group-item list-group-item-action bg-light">Laporan Pengambilan</a>
     <a href="{{ route('report2.index') }}" class="list-group-item list-group-item-action bg-light">Laporan Barang Masuk</a>
@@ -25,6 +25,6 @@
     </li>
     @endif
 
-    <a href="{{ url('/about') }}" class="list-group-item list-group-item-action bg-light">About</a>
+    {{-- <a href="{{ url('/about') }}" class="list-group-item list-group-item-action bg-light">About</a> --}}
   </div>
 </div>
